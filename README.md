@@ -3,7 +3,7 @@
 👨🏼‍🎓 Atualmente cursando o 1° Período de Ciências da Computação na Universidade de Uberaba <br>👨🏼‍💻 Desenvolvendo como FullStack Developer <br>
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stacks:
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
 <picture>
