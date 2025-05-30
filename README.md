@@ -1,6 +1,6 @@
 
 # Hello World!, me chamo João Pedro Garcia, 👋🏼:
-👨🏼‍🎓 Atualmente cursando o 1° Período de Ciências da Computação na Universidade de Uberaba <br>👨🏼‍💻 Desenvolvendo como FullStack Developer <br>
+👨🏼‍🎓 Atualmente cursando o 1° Período de Ciências da Computação na Universidade de Uberaba <br>👨🏼‍💻 Me Desenvolvendo como FullStack Developer <br>
 
 
 # 💻 Tech Stacks:
